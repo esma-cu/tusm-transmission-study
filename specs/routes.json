@@ -1,0 +1,54 @@
+[
+  {
+    "path": "overview",
+    "charts": [
+      "elc-capacity",
+      "elc-capacity-new",
+      "elc-generation",
+      "elc-generation-type",
+      "elc-consumption",
+      "elc-price-electricity-max",
+      "elc-price-electricity-mean",
+      "elc-price-electricity-min",
+      "sys-costs-annual",
+      "sys-costs-lumpy",
+      "sys-emissions-co2",
+      "sys-nrg-export",
+      "sys-nrg-import",
+      "sys-nrg-indigenous-supply",
+      "sys-primary-energy-demand"
+    ]
+  },
+  {
+    "path": "minerals",
+    "charts": [
+      "elc-consumption-cadmium",
+      "elc-consumption-chromium",
+      "elc-consumption-cobalt",
+      "elc-consumption-copper",
+      "elc-consumption-dysprosium",
+      "elc-consumption-galium",
+      "elc-consumption-manganese",
+      "elc-consumption-molybdenum",
+      "elc-consumption-neodymium",
+      "elc-consumption-nickel",
+      "elc-consumption-oth",
+      "elc-consumption-praseodymium",
+      "elc-consumption-rare-earth",
+      "elc-consumption-silicon",
+      "elc-consumption-tellurium",
+      "elc-consumption-zinc"
+    ]
+  },
+  {
+    "path": "iis",
+    "charts": [
+      "ind-iis-cap",
+	  "ind-iis-cap-new",
+	  "ind-iis-price",
+      "ind-iis-prod",
+	  "ind-iis-imp-net",
+	  "ind-iis-emi-co2"
+    ]
+  }
+]

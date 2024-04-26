@@ -1,0 +1,11 @@
+{
+  "base_ts1": "Base",
+  "base_ts40": "Base",
+  "base_ts40-electrification": "Electrification",
+  "base_ts40-inter-region-disabled": "Inter region disabled",
+  "base_ts40-transdelay5yr": "Transmission delay",
+  "cb_ts1": "Carbon Budget",
+  "nze35_ts1": "NZE 2035",
+  "nze35_ts40": "NZE 2035",
+  "nze50_ts1": "NZE 2050"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "base_ts40-electrification",
+  "data": [
+    {
+      "seriesName": "PRC_ELC_COA",
+      "seriesValues": [
+        [
+          2021,
+          0.22685941457181802
+        ]
+      ]
+    },
+    {
+      "seriesName": "PRC_ELC_GAS",
+      "seriesValues": [
+        [
+          2024,
+          0.08298019895832785
+        ],
+        [
+          2025,
+          7.72340706431971e-05
+        ]
+      ]
+    }
+  ]
+}

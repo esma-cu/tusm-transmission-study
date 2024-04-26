@@ -1,0 +1,31 @@
+{
+  "name": "base_ts40-transdelay5yr",
+  "data": [
+    {
+      "seriesName": "PRC_ELC_COA",
+      "seriesValues": [
+        [
+          2021,
+          0.584793129000777
+        ],
+        [
+          2023,
+          0.0023459099113053
+        ]
+      ]
+    },
+    {
+      "seriesName": "PRC_ELC_GAS",
+      "seriesValues": [
+        [
+          2024,
+          0.08702259979383667
+        ],
+        [
+          2025,
+          4.06191929569566e-05
+        ]
+      ]
+    }
+  ]
+}

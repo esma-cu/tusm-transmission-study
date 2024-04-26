@@ -1,0 +1,11 @@
+[
+  {
+    "path": "*",
+    "links": [
+      { "to": "overview", "text": "Overview" },
+      { "to": "minerals", "text": "Minerals" },
+      { "to": "iis", "text": "Iron and Steel" }
+    ],
+    "variant": "tabs"
+  }
+]
